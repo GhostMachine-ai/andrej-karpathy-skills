@@ -24,6 +24,23 @@
         "karpathy"
       ],
       "category": "workflow"
+    },
+    {
+      "name": "god-mode-v2",
+      "source": "./",
+      "description": "Cross-disciplinary strategist mode: structured reasoning, evidence-based synthesis, and actionable insights across any domain",
+      "version": "1.0.0",
+      "author": {
+        "name": "ghostmachine-ai"
+      },
+      "keywords": [
+        "strategy",
+        "reasoning",
+        "cross-domain",
+        "persona",
+        "synthesis"
+      ],
+      "category": "workflow"
     }
   ]
 }
